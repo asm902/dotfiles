@@ -1,17 +1,27 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"Babel",
+		"DashDoc",
 		"Emmet",
 		"ERB Snippets",
+		"Gherkin Auto-Complete Plus",
 		"Git",
 		"GitGutter",
+		"Material Theme",
+		"npm-install",
 		"Package Control",
 		"SCSS",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-rubocop",
+		"Tailwind CSS Autocomplete",
+		"Theme - Monokai Pro"
 	]
 }
